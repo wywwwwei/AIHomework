@@ -1,0 +1,1 @@
+Too few clues/numbers, normal Sudoku must have 17 clues minimum.
